@@ -1,3 +1,5 @@
 1. Download visual studio https://visualstudio.microsoft.com/zh-hant/thank-you-downloading-visual-studio/?sku=Community&rel=16
 
 
+##install package
+1. NuGet > PuppeteerSharp
